@@ -1,4 +1,4 @@
-<p align="center"><img src="laravel.png" title="screenschot"></p>
+<p align="center"><img src="Laravel.png" title="screenschot"></p>
 
 ## About Laravel 7
 
